@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using PPTWebApiService.Data;
+using PPTWebApiService.DataAccess.Data;
 var PPTAllowSpecificOrigins = "_PPTAllowSpecificOrigins";
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,6 +20,7 @@ builder.Services.AddDbContext<AppDbContext>
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IImageRepo, ImageRepo>();
+builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

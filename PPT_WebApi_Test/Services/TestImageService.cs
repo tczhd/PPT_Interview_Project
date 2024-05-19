@@ -1,6 +1,4 @@
-using Moq;
-using PPTWebApiService.Data;
-using PPTWebApiService.Entities;
+
 using PPTWebApiService.Services;
 
 namespace PPT_WebApi_Test.Facada
@@ -23,7 +21,7 @@ namespace PPT_WebApi_Test.Facada
             var expectedUrl = $"https://api.dicebear.com/8.x/pixel-art/png?seed={lastCharacter}&size=150";
 
             var mockImageRepo = GetMockImageRepoById(id);
-            var imageHandler = new ImageService(mockImageRepo);
+            var imageHandler = new ImageService(mockImageRepo, GetMockConfiguration());
 
             // Act
             var result = imageHandler.GetImageUrlByUserIdentifier(userIdentifier).Result;
@@ -47,7 +45,7 @@ namespace PPT_WebApi_Test.Facada
             var expectedUrl = $"https://api.dicebear.com/8.x/pixel-art/png?seed=db{lastCharacter}&size=150";
 
             var mockImageRepo = GetMockImageRepoById(id);
-            var imageHandler = new ImageService(mockImageRepo);
+            var imageHandler = new ImageService(mockImageRepo, GetMockConfiguration());
 
             // Act
             var result = imageHandler.GetImageUrlByUserIdentifier(userIdentifier).Result;
@@ -68,7 +66,7 @@ namespace PPT_WebApi_Test.Facada
             var expectedUrl = $"https://api.dicebear.com/8.x/pixel-art/png?size=150&seed=vowel";
 
             var mockImageRepo = GetMockImageRepoById(0);
-            var imageHandler = new ImageService(mockImageRepo);
+            var imageHandler = new ImageService(mockImageRepo, GetMockConfiguration());
 
             // Act
             var result = imageHandler.GetImageUrlByUserIdentifier(userIdentifier).Result;
@@ -90,7 +88,7 @@ namespace PPT_WebApi_Test.Facada
             var expectedUrl = $"https://api.dicebear.com/8.x/pixel-art/png?size=150&seed=";
 
             var mockImageRepo = GetMockImageRepoById(0);
-            var imageHandler = new ImageService(mockImageRepo);
+            var imageHandler = new ImageService(mockImageRepo, GetMockConfiguration());
 
             // Act
             var result = imageHandler.GetImageUrlByUserIdentifier(userIdentifier).Result;
@@ -110,7 +108,7 @@ namespace PPT_WebApi_Test.Facada
             var expectedUrl = $"https://api.dicebear.com/8.x/pixel-art/png?size=150&seed=default";
 
             var mockImageRepo = GetMockImageRepoById(0);
-            var imageHandler = new ImageService(mockImageRepo);
+            var imageHandler = new ImageService(mockImageRepo, GetMockConfiguration());
 
             // Act
             var result = imageHandler.GetImageUrlByUserIdentifier(userIdentifier).Result;
@@ -121,12 +119,6 @@ namespace PPT_WebApi_Test.Facada
             Assert.IsTrue(result.Url.Contains(expectedUrl));
         }
 
-        private IImageRepo GetMockImageRepoById(int id)
-        {
-            var reurnUrl = $"https://api.dicebear.com/8.x/pixel-art/png?seed=db{id}&size=150";
-            object value = mockImageRepro.Setup(x => x.GetImageByIdAsync(It.IsAny<int>())).ReturnsAsync(new Image { Url = reurnUrl });
 
-            return mockImageRepro.Object;
-        }
     }
 }

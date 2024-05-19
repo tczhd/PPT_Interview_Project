@@ -1,6 +1,6 @@
 using AutoMapper;
-using PPTWebApiService.Dtos;
-using PPTWebApiService.Entities;
+using PPTWebApiService.DataAccess.Entities;
+using PPTWebApiService.Facade.Dtos;
 using PPTWebApiService.ViewModel;
 
 namespace PPTWebApiService.Profiles

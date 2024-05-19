@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace PPTWebApiService.Entities
+namespace PPTWebApiService.DataAccess.Entities
 {
     public class Image
     {

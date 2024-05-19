@@ -1,48 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\",
+  "WorkspaceRootPath": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi_test\\imagerepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_dataaccess\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi_test\\common\\entitymocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_dataaccess\\data\\imagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi_test\\services\\testimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_dataaccess\\data\\iimagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi_test\\common\\asyncqueryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi\\viewmodel\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:viewmodel\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi\\utilities\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:utilities\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:profiles\\platformsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi\\dtos\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:dtos\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi\\controllers\\imagecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\controllers\\imagecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:controllers\\imagecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi_test\\services\\testimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372E2268-0167-48E7-9150-47BC4E7C1153}|..\\PPT_Facade\\PPT_Facade.csproj|d:\\testprojects\\ppt_interview_project\\ppt_facade\\handles\\vowelmagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_projects\\ppt_webapi_test\\unittestabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372E2268-0167-48E7-9150-47BC4E7C1153}|..\\PPT_Facade\\PPT_Facade.csproj|d:\\testprojects\\ppt_interview_project\\ppt_facade\\handles\\sixtonineimagehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E2268-0167-48E7-9150-47BC4E7C1153}|..\\PPT_Facade\\PPT_Facade.csproj|d:\\testprojects\\ppt_interview_project\\ppt_facade\\handles\\onetofiveimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E2268-0167-48E7-9150-47BC4E7C1153}|..\\PPT_Facade\\PPT_Facade.csproj|d:\\testprojects\\ppt_interview_project\\ppt_facade\\handles\\nonalphanumerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E2268-0167-48E7-9150-47BC4E7C1153}|..\\PPT_Facade\\PPT_Facade.csproj|d:\\testprojects\\ppt_interview_project\\ppt_facade\\handles\\imageabstrasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_project\\ppt_dataaccess\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA229205-64DF-4A49-B618-057353DB8332}|..\\PPT_WebApi_Test\\PPT_WebApi_Test.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi_test\\unittestabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\ppt_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:ppt_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\viewmodel\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:viewmodel\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8CE540-E129-42AD-B875-77E6DCF03684}|..\\PPT_Framework\\PPT_Framework.csproj|d:\\testprojects\\ppt_interview_project\\ppt_framework\\utilities\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E2268-0167-48E7-9150-47BC4E7C1153}|..\\PPT_Facade\\PPT_Facade.csproj|d:\\testprojects\\ppt_interview_project\\ppt_facade\\dtos\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_project\\ppt_dataaccess\\data\\imagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_project\\ppt_dataaccess\\data\\iimagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEB2FA3-B3B1-4051-B74E-AC7E6F85C899}|..\\PPT_DataAccess\\PPT_DataAccess.csproj|d:\\testprojects\\ppt_interview_project\\ppt_dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|d:\\testprojects\\ppt_interview_project\\ppt_webapi\\utilities\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520948E7-A398-49C2-9590-129E9328AFF3}|PPT_WebApi.csproj|solutionrelative:utilities\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,158 +106,340 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "ImageControllers.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Controllers\\ImageControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImageControllers.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Controllers\\ImageControllers.cs",
+              "RelativeToolTip": "Controllers\\ImageControllers.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwCAAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:34:22.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Image.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Entities\\Image.cs",
-              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Entities\\Image.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Entities\\Image.cs",
-              "RelativeToolTip": "..\\PPT_DataAccess\\Entities\\Image.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:34:14.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IImageRepo.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Data\\IImageRepo.cs",
-              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Data\\IImageRepo.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Data\\IImageRepo.cs",
-              "RelativeToolTip": "..\\PPT_DataAccess\\Data\\IImageRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:56.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\PPT_DataAccess\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:54.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ImageViewModel.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\viewModel\\ImageViewModel.cs",
-              "RelativeDocumentMoniker": "viewModel\\ImageViewModel.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\viewModel\\ImageViewModel.cs",
-              "RelativeToolTip": "viewModel\\ImageViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:51.366Z",
+              "WhenOpened": "2024-05-19T20:58:55.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StringHelper.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Utilities\\StringHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\StringHelper.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Utilities\\StringHelper.cs",
-              "RelativeToolTip": "Utilities\\StringHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:48.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PlatformsProfile.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Profiles\\PlatformsProfile.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Profiles\\PlatformsProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\PlatformsProfile.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Profiles\\PlatformsProfile.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Profiles\\PlatformsProfile.cs",
               "RelativeToolTip": "Profiles\\PlatformsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:12:26.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "Services\\IImageService.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Services\\IImageService.cs",
+              "RelativeToolTip": "Services\\IImageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:43.831Z",
+              "WhenOpened": "2024-05-19T21:51:35.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ImageModel.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Dtos\\ImageModel.cs",
-              "RelativeDocumentMoniker": "Dtos\\ImageModel.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Dtos\\ImageModel.cs",
-              "RelativeToolTip": "Dtos\\ImageModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Services\\ImageService.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Services\\ImageService.cs",
+              "RelativeToolTip": "Services\\ImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:39.613Z",
+              "WhenOpened": "2024-05-19T17:23:11.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ImageControllers.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Controllers\\ImageControllers.cs",
-              "RelativeDocumentMoniker": "Controllers\\ImageControllers.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi\\Controllers\\ImageControllers.cs",
-              "RelativeToolTip": "Controllers\\ImageControllers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "DocumentIndex": 3,
+              "Title": "AsyncQueryProvider.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\Common\\AsyncQueryProvider.cs",
+              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\Common\\AsyncQueryProvider.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\Common\\AsyncQueryProvider.cs",
+              "RelativeToolTip": "..\\PPT_WebApi_Test\\Common\\AsyncQueryProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:33:31.788Z",
+              "WhenOpened": "2024-05-18T02:49:58.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TestImageService.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi_Test\\Services\\TestImageService.cs",
-              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\Services\\TestImageService.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi_Test\\Services\\TestImageService.cs",
-              "RelativeToolTip": "..\\PPT_WebApi_Test\\Services\\TestImageService.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAswBEAAABJAAAA",
+              "DocumentIndex": 1,
+              "Title": "EntityMocker.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\Common\\EntityMocker.cs",
+              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\Common\\EntityMocker.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\Common\\EntityMocker.cs",
+              "RelativeToolTip": "..\\PPT_WebApi_Test\\Common\\EntityMocker.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:18:39.577Z",
+              "WhenOpened": "2024-05-18T02:38:31.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ImageRepo.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Data\\ImageRepo.cs",
-              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Data\\ImageRepo.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_DataAccess\\Data\\ImageRepo.cs",
-              "RelativeToolTip": "..\\PPT_DataAccess\\Data\\ImageRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Title": "TestImageService.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\Services\\TestImageService.cs",
+              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\Services\\TestImageService.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\Services\\TestImageService.cs",
+              "RelativeToolTip": "..\\PPT_WebApi_Test\\Services\\TestImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:17:52.574Z",
+              "WhenOpened": "2024-05-18T01:58:56.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageRepoTest.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\ImageRepoTest.cs",
+              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\ImageRepoTest.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\ImageRepoTest.cs",
+              "RelativeToolTip": "..\\PPT_WebApi_Test\\ImageRepoTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:14:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VowelmageHandler.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\VowelmageHandler.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Facade\\Handles\\VowelmageHandler.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\VowelmageHandler.cs",
+              "RelativeToolTip": "..\\PPT_Facade\\Handles\\VowelmageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:41:14.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SixToNineImageHandle.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\SixToNineImageHandle.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Facade\\Handles\\SixToNineImageHandle.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\SixToNineImageHandle.cs",
+              "RelativeToolTip": "..\\PPT_Facade\\Handles\\SixToNineImageHandle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:46:55.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OneToFiveImageHandler.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\OneToFiveImageHandler.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Facade\\Handles\\OneToFiveImageHandler.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\OneToFiveImageHandler.cs",
+              "RelativeToolTip": "..\\PPT_Facade\\Handles\\OneToFiveImageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:24:19.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UnitTestAbstract.cs",
-              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi_Test\\UnitTestAbstract.cs",
-              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\UnitTestAbstract.cs",
-              "ToolTip": "D:\\TestProjects\\PPT_Interview_Projects\\PPT_WebApi_Test\\UnitTestAbstract.cs",
-              "RelativeToolTip": "..\\PPT_WebApi_Test\\UnitTestAbstract.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Title": "NonAlphanumericHandler.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\NonAlphanumericHandler.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Facade\\Handles\\NonAlphanumericHandler.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\NonAlphanumericHandler.cs",
+              "RelativeToolTip": "..\\PPT_Facade\\Handles\\NonAlphanumericHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:32:47.824Z",
+              "WhenOpened": "2024-05-19T17:44:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageAbstrastHandler.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\ImageAbstrastHandler.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Facade\\Handles\\ImageAbstrastHandler.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Handles\\ImageAbstrastHandler.cs",
+              "RelativeToolTip": "..\\PPT_Facade\\Handles\\ImageAbstrastHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:28:50.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Entities\\Image.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Entities\\Image.cs",
+              "RelativeToolTip": "..\\PPT_DataAccess\\Entities\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:45:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T22:21:20.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:03:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTestAbstract.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\UnitTestAbstract.cs",
+              "RelativeDocumentMoniker": "..\\PPT_WebApi_Test\\UnitTestAbstract.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi_Test\\UnitTestAbstract.cs",
+              "RelativeToolTip": "..\\PPT_WebApi_Test\\UnitTestAbstract.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:35:41.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T22:35:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImageViewModel.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\viewModel\\ImageViewModel.cs",
+              "RelativeDocumentMoniker": "viewModel\\ImageViewModel.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\viewModel\\ImageViewModel.cs",
+              "RelativeToolTip": "viewModel\\ImageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:54:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Framework\\Utilities\\StringHelper.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Framework\\Utilities\\StringHelper.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Framework\\Utilities\\StringHelper.cs",
+              "RelativeToolTip": "..\\PPT_Framework\\Utilities\\StringHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:57:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PPT_WebApi.csproj",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\PPT_WebApi.csproj",
+              "RelativeDocumentMoniker": "PPT_WebApi.csproj",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\PPT_WebApi.csproj",
+              "RelativeToolTip": "PPT_WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T17:24:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Dtos\\ImageModel.cs",
+              "RelativeDocumentMoniker": "..\\PPT_Facade\\Dtos\\ImageModel.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_Facade\\Dtos\\ImageModel.cs",
+              "RelativeToolTip": "..\\PPT_Facade\\Dtos\\ImageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:53:01.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImageRepo.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Data\\ImageRepo.cs",
+              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Data\\ImageRepo.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Data\\ImageRepo.cs",
+              "RelativeToolTip": "..\\PPT_DataAccess\\Data\\ImageRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:52:35.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IImageRepo.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Data\\IImageRepo.cs",
+              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Data\\IImageRepo.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Data\\IImageRepo.cs",
+              "RelativeToolTip": "..\\PPT_DataAccess\\Data\\IImageRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:56:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PPT_DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\PPT_DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:03:38.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Utilities\\StringHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\StringHelper.cs",
+              "ToolTip": "D:\\TestProjects\\PPT_Interview_Project\\PPT_WebApi\\Utilities\\StringHelper.cs",
+              "RelativeToolTip": "Utilities\\StringHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:54:51.734Z",
               "EditorCaption": ""
             }
           ]

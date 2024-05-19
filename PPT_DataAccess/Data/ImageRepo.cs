@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using PPTWebApiService.Entities;
+using PPTWebApiService.DataAccess.Entities;
 
-namespace PPTWebApiService.Data
+namespace PPTWebApiService.DataAccess.Data
 {
 
     public class ImageRepo : IImageRepo
@@ -16,6 +16,11 @@ namespace PPTWebApiService.Data
         public IEnumerable<Image> GetAllImages()
         {
             return _context.Images.ToList();
+        }
+
+        public async Task<List<Image>> GetAllImagesAsync()
+        {
+            return await _context.Images.ToListAsync();   
         }
 
         public Image GetImageById(int id)

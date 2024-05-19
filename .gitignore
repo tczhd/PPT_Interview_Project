@@ -5,3 +5,8 @@ PPT_WebApi_Test/obj
 PPT_Frontend/javascript
 PPT_DataAccess/bin
 PPT_DataAccess/obj
+PPT_WebApi_Test/Common/AsyncQueryProvider.cs
+PPT_Framework/bin
+PPT_Framework/obj
+PPT_Facade/bin
+PPT_Facade/obj

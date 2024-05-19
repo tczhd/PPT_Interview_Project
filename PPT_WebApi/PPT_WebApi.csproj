@@ -9,15 +9,19 @@
   <ItemGroup>
     <Compile Remove="Data\**" />
     <Compile Remove="db\**" />
+    <Compile Remove="Dtos\**" />
     <Compile Remove="Entities\**" />
     <Content Remove="Data\**" />
     <Content Remove="db\**" />
+    <Content Remove="Dtos\**" />
     <Content Remove="Entities\**" />
     <EmbeddedResource Remove="Data\**" />
     <EmbeddedResource Remove="db\**" />
+    <EmbeddedResource Remove="Dtos\**" />
     <EmbeddedResource Remove="Entities\**" />
     <None Remove="Data\**" />
     <None Remove="db\**" />
+    <None Remove="Dtos\**" />
     <None Remove="Entities\**" />
   </ItemGroup>
 
@@ -30,6 +34,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.5" />
+    <PackageReference Include="Moq.EntityFrameworkCore" Version="8.0.1.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     <PackageReference Include="System.Text.Json" Version="8.0.3" />
@@ -37,6 +42,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PPT_DataAccess\PPT_DataAccess.csproj" />
+    <ProjectReference Include="..\PPT_Facade\PPT_Facade.csproj" />
+    <ProjectReference Include="..\PPT_Framework\PPT_Framework.csproj" />
   </ItemGroup>
 
 </Project>
